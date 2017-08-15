@@ -28,6 +28,6 @@ A digital certificate is an document used to prove the ownership of a public key
 #### HTTPS
 HTTPS is an HTTP connection encrypted by TLS or SSL. HTTPS is supported by browsers and is used to authenticate the visited website and protect the privacy/integrity of the exchanged data.
 
-#### Content Delivery Network
+#### Content Delivery Network (CDN)
 A CDN is a geographicly distributed network of proxy servers and data centers. Its job is to distribute static assets to spatially relitive end users and provide high availablity and performace.
 
