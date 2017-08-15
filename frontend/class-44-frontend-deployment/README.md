@@ -12,7 +12,7 @@
 #### Transport Layer Security (TLS / SSL)
 The Transport Layer Security was previously the Secure Socket Layer, and they are both commonly refered to as SSL. SSL is a crypographic protocol that provides secure communications over a computer network. SSL enables communications between computers to be private. It does this by using asymetric cyphers to encrypt data before sending it across the network.
 
-When a clinet and server make a TLS connection they negotiate a stateful connection using a handshake. 
+When a clinet and server make a TLS connection they negotiate a stateful connection using the following handshake. 
  
 0. The Client connects to the TLS enabled server and provides a list of supported ciphers
 0. The server picks a cipher in the hash function that it suppors and notifies the client
