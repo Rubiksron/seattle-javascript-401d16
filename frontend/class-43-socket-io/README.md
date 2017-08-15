@@ -9,4 +9,8 @@
 * [Socket IO Docs](https://socket.io/docs/)
 
 ## Overview
-comeing soon
+#### Websockets
+* Websocket is a realtime two way communication protocol over a TCP connection. Websockets are part of the HTML5 specification. WebSockets are designed to be implemented in browsers and webservers. Websocket connections are interpreted by HTTP servers as as an `UPGRADE` request. Websockets enable interaction between a browser and a webserver with lower overheads, enabling real time data transfer to and from the server. The communications are done over port 80 or 443 in case of TLS(SSL) connectoins.
+
+#### HTTP Push
+#### Long Polling
