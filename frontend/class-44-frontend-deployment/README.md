@@ -8,7 +8,6 @@
 * [AWS CloudFront](https://aws.amazon.com/cloudfront/)
 
 ## Overview
-#### Content Delivery Network
 #### Transport Layer Security (TLS / SSL)
 The Transport Layer Security(TLS) was previously the Secure Socket Layer(SSL). TLS is a crypographic protocol that provides secure communications over a computer network. TLS enables communications between computers to be private. It does this by using asymetric cyphers to encrypt data before sending it across the network.
 
@@ -28,4 +27,7 @@ A digital certificate is an document used to prove the ownership of a public key
 
 #### HTTPS
 HTTPS is an HTTP connection encrypted by TLS or SSL. HTTPS is supported by browsers and is used to authenticate the visited website and protect the privacy/integrity of the exchanged data.
+
+#### Content Delivery Network
+A CDN is a geographicly distributed network of proxy servers and data centers. Its job is to distribute static assets to spatially relitive end users and provide high availablity and performace.
 
