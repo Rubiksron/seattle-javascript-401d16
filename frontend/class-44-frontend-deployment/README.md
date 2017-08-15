@@ -27,4 +27,5 @@ An asymetric cyper is a cryptographic algorythem that uses seporate keys for enc
 A digital certificate is an document used to prove the ownership of a public key. The certificate contains the servers name,  the trusted certificate authority, and the public encryption key. A certification authority is an entity that both issues and verifys digital certificates.
 
 #### HTTPS
+HTTPS is an HTTP connection encrypted by TLS or SSL. HTTPS is supported by browsers and is used to authenticate the visited website and protect the privacy/integrity of the exchanged data.
 
