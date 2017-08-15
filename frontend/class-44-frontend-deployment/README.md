@@ -24,7 +24,7 @@ When a clinet and server make a TLS connection they negotiate a stateful connect
 An asymetric cyper is a cryptographic algorythem that uses seporate keys for encrypting and decrypting data. These keys are often refered to as public and private keys. The public key is used to encrypt the data and the private key is used to decrypt the data. An analogy for this might be if a store owner had a two types of keys keys to her store several for locking it up (copys of a public key), and one for opening it (a private key). All her employes could have access to the key that locks the store, but once the store was locked she would be the only one that could open it.
 
 ###### Digital Certificate
-A digital certificate is an document used to prove the ownership of a public key. The certificate contains the servers name,  the trusted certificate authority, and the public encryption key. A certification authority is an entity that both issues and verifys digital certificats.
+A digital certificate is an document used to prove the ownership of a public key. The certificate contains the servers name,  the trusted certificate authority, and the public encryption key. A certification authority is an entity that both issues and verifys digital certificates.
 
 #### HTTPS
 
