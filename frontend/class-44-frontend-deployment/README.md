@@ -10,7 +10,7 @@
 ## Overview
 #### Content Delivery Network
 #### Transport Layer Security (TLS / SSL)
-The Transport Layer Security was previously the Secure Socket Layer, and they are both commonly refered to as SSL. SSL is a crypographic protocol that provides secure communications over a computer network. SSL enables communications between computers to be private. It does this by using asymetric cyphers to encrypt data before sending it across the network.
+The Transport Layer Security(TLS) was previously the Secure Socket Layer(SSL). TLS is a crypographic protocol that provides secure communications over a computer network. TLS enables communications between computers to be private. It does this by using asymetric cyphers to encrypt data before sending it across the network.
 
 When a clinet and server make a TLS connection they negotiate a stateful connection using the following handshake. 
  
