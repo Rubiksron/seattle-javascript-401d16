@@ -14,9 +14,9 @@ The Transport Layer Security(TLS) was previously the Secure Socket Layer(SSL). T
 
 When a clinet and server make a TLS connection they negotiate a stateful connection using the following handshake. 
  
-0. The Client connects to the TLS enabled server and provides a list of supported ciphers
-0. The server picks a cipher in the hash function that it suppors and notifies the client
-0. The server sends its public encryption key and usually sends a digital certificate
+0. The client connects to the TLS enabled server and provides a list of supported ciphers
+0. The server picks a cipher that it suppors and notifies the client
+0. The server sends its public encryption key or a digital certificate
 0. The client confirms the validity digital certifictate
 0. The client genorates and sends sessions keys used for the connection
 
